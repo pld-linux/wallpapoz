@@ -5,7 +5,7 @@ Version:	0.1
 Release:	1
 License:	GPL
 Group:		X11/Applications
-Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.bz2
+Source0:	http://dl.sourceforge.net/wallpapoz/%{name}-%{version}.tar.bz2
 # Source0-md5:	73f94761626e2d586f7d35cc434477c2
 Patch0:		%{name}-desktop.patch
 URL:		http://wallpapoz.sourceforge.net/
