@@ -1,0 +1,19 @@
+diff -urN wallpapoz-0.1.oryg/wallpapoz.desktop wallpapoz-0.1/wallpapoz.desktop
+--- wallpapoz-0.1.oryg/wallpapoz.desktop	2004-09-24 15:43:18.563614776 +0200
++++ wallpapoz-0.1/wallpapoz.desktop	2004-09-24 15:45:15.518834880 +0200
+@@ -1,12 +1,13 @@
+ [Desktop Entry]
+ Encoding=UTF-8
+ Version=0.1
+-
+ Name=Wallpapoz
+ Comment=Gnome Wallpaper Configuration Tool
++Comment[pl]=Narzędzie do konfiguracji tła pulpitu dla GNOME
+ Exec=wallpapoz
+ Icon=wallpapoz.png
+ Terminal=0
+ Type=Application
+-Categories=Application;Utility;
++Categories=GTK;GNOME;Settings;DesktopSettings;
+ StartupNotify=false
++# vi:encoding=utf-8
