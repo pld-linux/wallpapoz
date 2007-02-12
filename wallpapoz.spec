@@ -1,5 +1,5 @@
 Summary:	GNOME wallpaper configuration tool
-Summary(pl.UTF-8):   Narzędzie do konfiguracji tła pulpitu dla GNOME
+Summary(pl.UTF-8):	Narzędzie do konfiguracji tła pulpitu dla GNOME
 Name:		wallpapoz
 Version:	0.1
 Release:	1
