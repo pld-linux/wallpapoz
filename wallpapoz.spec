@@ -1,5 +1,5 @@
 Summary:	GNOME wallpaper configuration tool
-Summary(pl):	NarzÍdzie do konfiguracji t≥a pulpitu dla GNOME
+Summary(pl.UTF-8):   Narzƒôdzie do konfiguracji t≈Ça pulpitu dla GNOME
 Name:		wallpapoz
 Version:	0.1
 Release:	1
@@ -19,9 +19,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Wallpapoz enable your Gnome desktop to have diffrent wallpapers for
 diffrent workspaces.
 
-%description -l pl
-Wallpapoz pozwala na posiadanie innego t≥a pulpitu na kaødym z
-obszarÛw roboczych.
+%description -l pl.UTF-8
+Wallpapoz pozwala na posiadanie innego t≈Ça pulpitu na ka≈ºdym z
+obszar√≥w roboczych.
 
 %prep
 %setup -q
